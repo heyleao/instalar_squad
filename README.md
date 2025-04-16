@@ -6,7 +6,7 @@ Este projeto fornece um script automatizado para baixar, instalar e configurar u
 
 ## 📁 Arquivos
 
-- `instalar_squad_server.bat` → Script principal que executa todas as etapas da instalação.
+- `instalar_squad.bat` → Script principal que executa todas as etapas da instalação.
 - (Opcional) `README.md` → Este guia de instruções.
 
 ---
