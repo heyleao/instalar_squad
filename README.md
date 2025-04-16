@@ -28,11 +28,11 @@ Este projeto fornece um script automatizado para baixar, instalar e configurar u
 
 ### 1. Faça o download
 
-Baixe o arquivo `install_squad_server.bat`.
+Baixe o arquivo `instalar_squad.bat`.
 
 ### 2. Execute como Administrador
 
-- Clique com o botão direito em `install_squad_server.bat` e selecione **Executar como Administrador**.
+- Clique com o botão direito em `instalar_squad.bat` e selecione **Executar como Administrador**.
 - O script solicitará que você informe a letra do disco de instalação (exemplo: `D`).
 
 ### 3. Aguarde a instalação
